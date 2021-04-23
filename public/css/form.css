@@ -1,0 +1,64 @@
+
+.container {
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    vertical-align: middle;
+    max-width: 100vw;
+}
+
+
+.base-form {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    vertical-align: middle;
+    border: 1px solid #676792;
+    width: 30vw;
+
+}
+
+
+.field {
+    text-align: left;
+    width: 100%;
+}
+
+.form-group {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+form {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.button-control-panel {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+    vertical-align: bottom;
+}
+
+
+
+
+
+
+
+
+
+
+
